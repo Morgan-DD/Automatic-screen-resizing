@@ -1,0 +1,7 @@
+C:\Users\pg66hua\OneDrive - Education Vaud\stage\_InProgress\screenSize\screenResolution_load\screenResolution_load\bin\Debug\screenResolution_load.exe.config
+C:\Users\pg66hua\OneDrive - Education Vaud\stage\_InProgress\screenSize\screenResolution_load\screenResolution_load\bin\Debug\screenResolution_load.exe
+C:\Users\pg66hua\OneDrive - Education Vaud\stage\_InProgress\screenSize\screenResolution_load\screenResolution_load\bin\Debug\screenResolution_load.pdb
+C:\Users\pg66hua\OneDrive - Education Vaud\stage\_InProgress\screenSize\screenResolution_load\screenResolution_load\obj\Debug\screenResolution_load.csproj.AssemblyReference.cache
+C:\Users\pg66hua\OneDrive - Education Vaud\stage\_InProgress\screenSize\screenResolution_load\screenResolution_load\obj\Debug\screenResolution_load.csproj.CoreCompileInputs.cache
+C:\Users\pg66hua\OneDrive - Education Vaud\stage\_InProgress\screenSize\screenResolution_load\screenResolution_load\obj\Debug\screenResolution_load.exe
+C:\Users\pg66hua\OneDrive - Education Vaud\stage\_InProgress\screenSize\screenResolution_load\screenResolution_load\obj\Debug\screenResolution_load.pdb
