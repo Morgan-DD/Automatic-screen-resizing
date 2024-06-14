@@ -115,8 +115,9 @@ The file name has to be `XXX`.xml is the `screenSettingsTitle` parameter on the 
 ## Start the application at login
 There is 3 ways to do that.  
  - `The GPO (Group Policy Objects) :`  
-    The PowerShell script `\\MyShare\MyFolder\tools\applyActualConfig\applyActualConfig.ps1` can be used for a GPO.
+    The PowerShell script `\\MyShare\MyFolder\tools\applyActualConfig\applyActualConfig.ps1` can be used for a GPO, Carefull of the execution policies ([Microsoft site](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-7.4)).
 
- - `shell:common startup`  
+ - `shell:common startup`   
+      shell:common startup' or 'C:\ProgramData\Microsoft\Windows\Startup Menu\Programs\StartUp', Windows will start everything in this folder when someone logs on.   
      - The powershell script `\\MyShare\MyFolder\tools\copyToStartup` copies `\\MyShare\MyFolder\tools\applyActualConfig\applyActualConfig.cmd` to the `shell:common startup` of the PC on which the script is                executed (requires admin rights).  
      - You can also do it by hand if there is not too much PC. Good luck if you do it like that.
